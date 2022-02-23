@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # anime fun, sorry
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daug32&hide_title=true&layout=compact&theme=radical&hide=pascal)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZLOHERE&hide_title=true&layout=compact&theme=radical&hide=pascal)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daug32&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZLOHERE&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
